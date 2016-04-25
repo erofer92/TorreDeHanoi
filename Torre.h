@@ -1,0 +1,2 @@
+
+int baseSecundaria(Pilha* p);
